@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "We are looking for a talented frontend developer to join our team.",
+    "category": "Software Development"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "description": "Join our team as a backend developer and work on exciting projects.",
+    "category": "Software Development"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "description": "Seeking a creative UI/UX designer to enhance user experience.",
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "description": "We are hiring a data scientist to analyze and interpret complex data sets.",
+    "category": "Data Science"
+  },
+  {
+    "id": 5,
+    "title": "Marketing Manager",
+    "description": "Looking for a dynamic marketing manager to lead our marketing efforts.",
+    "category": "Marketing"
+  }
+]
